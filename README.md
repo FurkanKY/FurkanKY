@@ -53,4 +53,3 @@ Savunma sanayii teknolojilerine ilgi duyuyorum ve bu alanda ilerliyorum. Özelli
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkanKY&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-> *Not: GitHub istatistikleri görmek için yukarıdaki satırda "KULLANICIADI" kısmını GitHub kullanıcı adınızla değiştirin.*

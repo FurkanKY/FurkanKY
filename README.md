@@ -1,16 +1,56 @@
-## Hi there 👋
+# Merhaba, ben Furkan Kadir Yılmaz! 👋
 
-<!--
-**FurkanKY/FurkanKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## YTÜ Elektronik ve Haberleşme Mühendisliği Öğrencisi
 
-Here are some ideas to get you started:
+Savunma sanayii teknolojilerine ilgi duyuyorum ve bu alanda ilerliyorum. Özellikle RF tasarım, gömülü sistemler ve haberleşme teknolojileri alanlarında uzmanlaşmayı amaçlıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 İlgi Alanlarım
+- RF Tasarım ve RF Devreleri
+- Gömülü Sistemler ve Mikrodenetleyiciler
+- Haberleşme Sistemleri ve Protokolleri
+- Sinyal İşleme ve Analiz
+- PCB Tasarımı ve Prototipleme
+
+### 🌱 Şu anda öğreniyorum
+- C ile Gömülü Sistem Programlama
+- Python ile Sinyal İşleme ve Veri Analizi
+- Yapay Zeka ve Makine Öğrenmesi Temelleri
+- RF Tasarım Prensipleri
+
+### 🛠️ Teknolojiler ve Araçlar
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OrCAD](https://img.shields.io/badge/-OrCAD-red?style=flat-square)
+![Proteus](https://img.shields.io/badge/-Proteus-blue?style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
+
+### 🎯 Öğrenmek İstediğim Teknolojiler
+- **RF ve Haberleşme için:** 
+  - MATLAB/Simulink (RF modellemeleri ve haberleşme simülasyonları için)
+  - CST Studio Suite (RF ve Anten Tasarımı)
+  - ADS (Advanced Design System - RF Devre Tasarımı)
+  - GNU Radio (Yazılım Tanımlı Radyo uygulamaları için)
+  
+- **Gömülü Sistemler için:**
+  - ARM Mimarisi ve STM32 Programlama
+  - RTOS (Real-Time Operating Systems)
+  - VHDL/Verilog (FPGA Programlama)
+  - Altium Designer (Profesyonel PCB Tasarımı)
+  
+- **Yapay Zeka için:**
+  - TensorFlow ve PyTorch
+  - Scikit-learn
+  - Sinyal İşleme ve Görüntü İşleme Kütüphaneleri
+
+### 📚 Projeler
+*Yakında güncellenecek...*
+
+### 📫 İletişim
+- LinkedIn: [Furkan Kadir Yılmaz](https://www.linkedin.com/in/furkan-kadir-yilmaz/)
+
+---
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkanKY&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+> *Not: GitHub istatistikleri görmek için yukarıdaki satırda "KULLANICIADI" kısmını GitHub kullanıcı adınızla değiştirin.*

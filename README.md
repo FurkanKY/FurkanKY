@@ -5,7 +5,6 @@
 Savunma sanayii teknolojilerine ilgi duyuyorum ve bu alanda ilerliyorum. Özellikle RF tasarım, gömülü sistemler ve haberleşme teknolojileri alanlarında uzmanlaşmayı amaçlıyorum.
 
 ### 🔭 İlgi Alanlarım
-- RF Tasarım ve RF Devreleri
 - Gömülü Sistemler ve Mikrodenetleyiciler
 - Haberleşme Sistemleri ve Protokolleri
 - Sinyal İşleme ve Analiz
@@ -15,7 +14,6 @@ Savunma sanayii teknolojilerine ilgi duyuyorum ve bu alanda ilerliyorum. Özelli
 - C ile Gömülü Sistem Programlama
 - Python ile Sinyal İşleme ve Veri Analizi
 - Yapay Zeka ve Makine Öğrenmesi Temelleri
-- RF Tasarım Prensipleri
 
 ### 🛠️ Teknolojiler ve Araçlar
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -32,18 +30,13 @@ Savunma sanayii teknolojilerine ilgi duyuyorum ve bu alanda ilerliyorum. Özelli
   - GNU Radio (Yazılım Tanımlı Radyo uygulamaları için)
   
 - **Gömülü Sistemler için:**
-  - ARM Mimarisi ve STM32 Programlama
   - RTOS (Real-Time Operating Systems)
   - VHDL/Verilog (FPGA Programlama)
-  - Altium Designer (Profesyonel PCB Tasarımı)
   
 - **Yapay Zeka için:**
   - TensorFlow ve PyTorch
   - Scikit-learn
   - Sinyal İşleme ve Görüntü İşleme Kütüphaneleri
-
-### 📚 Projeler
-*Yakında güncellenecek...*
 
 ### 📫 İletişim
 - LinkedIn: [Furkan Kadir Yılmaz](https://www.linkedin.com/in/furkan-kadir-yilmaz/)

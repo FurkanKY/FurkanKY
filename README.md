@@ -1,4 +1,4 @@
-# Merhaba, ben Furkan Kadir Yılmaz! 👋
+# Merhaba, ben Furkan Kadir Yılmaz.
 
 ## YTÜ Elektronik ve Haberleşme Mühendisliği Öğrencisi
 
@@ -9,11 +9,6 @@ Savunma sanayii teknolojilerine ilgi duyuyorum ve bu alanda ilerliyorum. Özelli
 - Haberleşme Sistemleri ve Protokolleri
 - Sinyal İşleme ve Analiz
 - PCB Tasarımı ve Prototipleme
-
-### 🌱 Şu anda öğreniyorum
-- C ile Gömülü Sistem Programlama
-- Python ile Sinyal İşleme ve Veri Analizi
-- Yapay Zeka ve Makine Öğrenmesi Temelleri
 
 ### 🛠️ Teknolojiler ve Araçlar
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
